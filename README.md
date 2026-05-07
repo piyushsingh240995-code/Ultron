@@ -1,8 +1,3 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ce1facda-70af-4737-bcca-20bb7c7e5e3b
 
 ## Run Locally
 
@@ -14,3 +9,7 @@ View your app in AI Studio: https://ai.studio/apps/ce1facda-70af-4737-bcca-20bb7
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## if you don't want to run locally 
+
+website:
+ultron-rcibt.netlify.app
